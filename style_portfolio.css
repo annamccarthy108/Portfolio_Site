@@ -1,0 +1,590 @@
+@import url('https://fonts.googleapis.com/css?family=Hind+Vadodara');
+.box-red{
+		height: 450px;
+		width: 800px;
+		padding left: 400px;
+		padding-right: 158px;
+		background-color: #f00; 
+		position: relative;
+
+	}
+
+
+h1{
+		text-align: left;
+		color: black;
+		font-family: "hind vadodara";
+
+	}
+	#name{
+		margin-left: 150px;
+		position: absolute;
+		top: 200px;
+		right: 500px;
+		left: 10px;
+		background-color: white;
+
+	}
+	#title{
+
+		position: absolute;
+		top: 310px;
+		right: 700px;
+		left: 200px;
+		text-align: center;
+
+	}
+	h2{
+		color: black;
+		font-family: "hind vadodara";
+		font-weight: lighter;
+		background-color: white; 
+		text-align: center;
+
+
+	}
+	.red-box-container{
+		padding-left: 330px;
+		padding-right: 100px;
+		padding-top: 150px;
+	}
+	
+#portrait{
+	height: 300px;
+	width: 500px;
+	position: absolute;
+	top: 200px;
+	left: 430px;
+	margin-left: 40px;
+}
+h3{
+	font-family: "hind vadodara";
+	font-weight: lighter;
+	font-size: 35px;
+	text-align: right;
+	position: relative;
+	padding-top: 570px;
+}
+
+#resume{
+	text-align: right;
+	padding-right: 65px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-family:"hind vadodara";
+	
+
+}
+.header_container{
+	height: 650px;
+}
+#code_cert{
+	text-align: center;
+	padding: 0px;
+}
+.annas-row{
+	width: 80%;
+	margin: auto;
+	margin-top: 0px;
+
+}
+#school{
+	text-align: center;
+	
+	margin: auto;
+
+}
+#paragraph1{
+	font-family: "hind vadodara";
+	font-weight: lighter;
+	font-size: 20px;
+	text-align: center;
+	position: relative;
+	padding-top: 20px;	
+	padding: 50px;
+
+}
+#paragraph2{
+	font-family: "hind vadodara";
+	font-weight: lighter;
+	font-size: 20px;
+	text-align: center;
+	display: block;
+	position: relative;
+	padding: 50px;
+}
+#work{
+	text-align: right;
+		color: black;
+		font-family: "hind vadodara";
+		position: relative;
+		padding-top: 50px;
+		padding-right: 158px;
+}
+#barca{
+	position: relative;
+	margin-left: 100px;
+	height: 650px;
+	width: 450px;
+	padding: 50px;
+	
+}
+#type{
+	position: relative;
+	margin-left: 100px;
+	height: 650px;
+	width: 450px;
+	padding: 50px;
+
+} 
+#arts_council{
+	position: relative;
+	margin: auto;
+	padding-top: 100px;
+	height: 450px;
+	width: 500px;
+}
+
+#one{
+	position: relative;
+	margin-left: 60px;
+	padding-top: 100px;
+	height: 450px;
+	width: 500px;
+	
+}
+#two{
+	position: relative;
+	margin-left: 60px;
+	padding-top: 100px;
+	height: 450px;
+	width: 500px;
+	
+}
+
+#four{
+	position: relative;
+	margin-left: 60px;
+	padding-top: 100px;
+	height: 450px;
+	width: 500px;
+	
+}
+
+
+#six{
+	position: relative;
+	margin-left: 60px;
+	padding-top: 100px;
+	height: 450px;
+	width: 500px;
+	
+}
+
+#typeparagraph{
+	font-family: "hind vadodara";
+	font-weight: lighter;
+	font-size: 20px;
+	text-align: right;
+	display: block;
+	position: relative;
+	margin: auto;
+	padding: 150px; 
+	font display: all;
+	
+	
+
+
+}
+#one{
+	font-family: "hind vadodara";
+	font-weight: lighter;
+	font-size: 15px;
+	text-align: center;
+	display: block;
+	position: relative;
+	margin-left: 20px;
+
+
+}
+#two{
+	font-family: "hind vadodara";
+	font-weight: lighter;
+	font-size: 15px;
+	text-align: center;
+	display: block;
+	position: relative;
+	margin-left: 20px;
+}
+#four{
+	font-family: "hind vadodara";
+	font-weight: lighter;
+	font-size: 15px;
+	text-align: center;
+	display: block;
+	position: relative;
+	margin-left: 20px;
+}
+
+
+#container_work{
+	padding: 90px;
+	font-family:"hind vadodara";
+	text-align: right;
+	padding-top: 0px;
+}
+.my-new-class{
+	padding-right: 200px;
+	padding-left: 100px;
+	padding: 70px;
+
+}
+#my-new-class{
+	padding: 100px;
+	text-align: center;
+} 
+#contact{
+	text-align: center;
+/*	padding-right: 100px;
+	padding-top: 400px*/;
+	font-family:"hind vadodara";
+	font-size: 60px;	
+	margin: auto;
+	position: relative;
+	padding: 10px;
+	border: solid;
+	border-radius: 25px;
+	width: 700px;
+	
+	max-width: 600px;
+	
+
+}
+#contact-info{
+	
+	max-width: 500px;
+	width: 50vw;
+	text-align: center;
+	margin: auto;
+	font-size: 3vw;
+	
+}
+a{
+	color: black
+}
+body{
+	overflow-x: hidden;
+} 
+
+.col-12.col-sm-6.my-new-class{
+	
+	text-align: right; 
+	padding top: 100px;
+	margin: auto;
+	border-width: medium;
+	
+
+}
+
+.col-12.col-sm-6{
+	padding: 0px;
+	text-align: center;
+	position: relative;
+	border-width: medium;
+} 
+
+.coding_work{
+font-family: "hind vadodara";
+	font-weight: lighter;
+	font-size: 15px;
+	text-align: right;
+	display: block;
+	position: relative;
+	margin: auto;
+	padding: 0px; 
+	font display: all;	
+}
+
+#screenshot{
+position: relative;
+	margin-left: 60px;
+	padding-top: 100px;
+	height: auto;
+	width: auto;	
+}
+
+#code_work{
+	padding: 100px;
+	margin: auto;
+	text-align: right;
+	overflow-x: hidden;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+
+	#paragraph1{
+		padding: 0px 0px;
+	}
+
+	#barca{
+	    margin: auto; 
+	    padding: 0px; 
+	    height: auto;
+	    width: auto;
+	    max-width: 100%
+	    
+
+	}
+
+#type{
+	margin: auto;
+	  padding: 0px;
+	  position: relative;
+	  height: auto;
+	  width: auto;
+	  max-width: 200%
+	 
+}
+#arts_council{
+margin: auto;
+	  padding: 0px;
+	  position: relative;
+	  height: auto;
+	  width: auto;
+	  max-width: 200%	
+}
+#one{
+	margin: auto;
+	  padding: 0px;
+	  position: relative;
+	  height: auto;
+	  width: auto;
+	  max-width: 200%
+	} 
+	#two{
+		margin: auto; 
+	  padding: 0px;
+	  position: relative;
+	  height: auto;
+	  width: auto;
+	  max-width: 200%
+	}
+#four{
+	 margin: auto;
+	  padding: 0px;
+	  position: relative;
+	  height: auto;
+	  width: auto;
+	  max-width: 200%
+}
+#six{
+	margin: auto;
+	  padding: 0px;
+	  position: relative;
+	  height: auto;
+	  width: auto;
+	  max-width: 200%
+}
+
+
+
+.typeparagraph{
+	text-align: center;
+
+	
+}
+.col-12.col-sm-6.my-new-class{ 
+	padding: 10px;
+	text-align: center;
+
+}
+
+#code_cert{
+	text-align: center; 
+	padding: 0px;
+	
+}
+h2{
+	text-align: center;
+	padding: auto;
+
+}
+#paragraph1{
+	text-align: center;
+	padding-bottom: 50px;
+	width: 100%;
+} 
+#resume{
+	text-align: right;
+	padding right: 20px;
+	padding-bottom: 50px;
+} 
+.col-6{
+	padding: 0px;
+	text-align: center;
+	width: 0%;
+}
+.Resume{
+	text-align: center;
+	padding bottom: 20px;
+	padding-right: 20px;
+	
+}
+
+
+#school{
+	text-align: center;
+	margin:auto;
+	padding: 0px;
+	width:100%;
+}
+.row.annas-row{
+	padding: 0px;
+	text-align: center;
+	column-width: 300px;
+}
+#paragraph2{
+	padding: 0px;
+	width: 100%;
+	margin:auto;
+	padding-right: 0px;
+	text-align: center;
+	padding-top: 30px;
+
+}
+.annas-row{
+	padding: 0px;
+}
+
+.col-12.col-sm-6{
+	padding: 20px;
+	text-align: center;
+	position: relative;
+	
+}
+#contact{
+	max-width: 60vw;
+	font-size: 10px; 
+	margin: auto;
+
+
+
+}
+#contact-info{
+	text-align: center;
+	margin: auto;
+	width: 50vw;
+	 box-sizing: border-box;
+	
+
+		
+}
+
+#email{
+	font-size: 3.5vw;
+	text-align: center;
+	margin: auto;
+	
+}
+
+#linkedin{
+	font-size: 3.5vw;
+	text-align: center;
+	
+}
+#number{
+	font-size: 3.5vw;
+	text-align: center;
+}
+
+.box-red{
+		height: 100px;
+		width: 100px;
+		background-color: #f00; 
+		position: relative;
+
+	}
+
+
+h1{
+		text-align: left;
+		color: black;
+		font-family: "hind vadodara";
+
+	}
+	#name{
+		margin: auto;
+		text-align: center;
+		padding: 0px;
+		background-color: white;
+
+	}
+	#title{
+		
+		padding: 0px;
+		text-align: center;
+
+
+	}
+	h2{
+		color: black;
+		font-family: "hind vadodara";
+		font-weight: lighter;
+		background-color: white; 
+		text-align: center;
+
+
+	}
+	
+		
+	#portrait{
+		position: relative;
+		
+	}
+#header-container.row{
+	width: 3.5vw;
+	height: 3vw;
+	}
+	
+
+#code_work{
+	padding: 0px;
+	margin: auto;
+	text-align: right;
+	overflow-x: hidden;
+}
+#work{
+	padding: 50px;
+	margin: auto;
+	text-align: right;
+	overflow-x: hidden;
+}
+
+#screenshot{
+margin: auto;
+	  padding: 0px;
+	  position: relative;
+	  height: auto;
+	  width: auto;
+	  max-width: 200%	
+}
+
+.portrait{
+	margin: auto;
+}
+
+.red-box-container{
+	padding: 0px;
+	height: auto;
+}
+
+
+
+
+
+
+}
+
+
